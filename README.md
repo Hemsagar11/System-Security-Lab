@@ -5,5 +5,4 @@ Note: Excute the programs with care. They might break your system!
 
 | S.no | Topics |
 |------|--------|
-| 01   |SSH Logging|
-|------|--------|
+| 01   |SSH Logins|
